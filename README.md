@@ -1,4 +1,5 @@
-# LinearRegression
-House price predictor using multiple linear regression
+# House Price Prediction using Machine Learning
 
-Build a multiple linear regression model using scikit learn in boston data to predict 'Price' based on different criteria.
+A Machine Learning based project to predict prices of house based on different criteria like
+number of rooms, accessibility to highways, property tax etc.
+
